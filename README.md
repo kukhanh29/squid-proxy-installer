@@ -55,6 +55,11 @@ Reload squid proxy
 sudo systemctl reload squid
 ```
 
+proxy ip:3128
+
+```
+ip:3128
+```
 # Configure Multiple IP Address
 
 NOTE: This is only needed if you have more than one IP on your server.
